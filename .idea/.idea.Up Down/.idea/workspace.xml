@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a11a719-43e9-4a19-94e1-f4c8ed8b24ce" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ScoreManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <marker date="1511472456429" expanded="false" signature="6:100" ph="..." />
+                <marker date="1511472456429" expanded="true" signature="142:2324" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="379:674" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="444:616" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="706:783" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="821:904" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="926:1151" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="1169:1246" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="1270:1325" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="1354:1443" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="1480:1580" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="1612:1837" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="1659:1728" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="1741:1831" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="1863:2133" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="1918:2002" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="2015:2127" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="2165:2221" ph="{...}" />
+                <marker date="1511472456429" expanded="true" signature="2251:2322" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdsManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AdsManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1511490269080" expanded="false" signature="6:139" ph="..." />
+                <marker date="1511490269080" expanded="true" signature="180:2428" ph="{...}" />
+                <marker date="1511490269080" expanded="true" signature="544:849" ph="{...}" />
+                <marker date="1511490269080" expanded="true" signature="621:820" ph="{...}" />
+                <marker date="1511490269080" expanded="true" signature="827:846" ph="{...}" />
+                <marker date="1511490269080" expanded="true" signature="866:1174" ph="{...}" />
+                <marker date="1511490269080" expanded="true" signature="916:1170" ph="{...}" />
+                <marker date="1511490269080" expanded="true" signature="1009:1066" ph="{...}" />
+                <marker date="1511490269080" expanded="true" signature="1219:1494" ph="{...}" />
+                <marker date="1511490269080" expanded="true" signature="1258:1293" ph="{...}" />
+                <marker date="1511490269080" expanded="true" signature="1331:1406" ph="{...}" />
+                <marker date="1511490269080" expanded="true" signature="1443:1491" ph="{...}" />
+                <marker date="1511490269080" expanded="true" signature="1496:1775" ph="/* void RequestBanner() ... */" />
+                <marker date="1511490269080" expanded="true" signature="1805:2425" ph="{...}" />
+                <marker date="1511490269080" expanded="true" signature="2151:2304" ph="/* For Production When Submit App ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameManager.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="30" column="67" lean-forward="false" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
+              <folding>
+                <marker date="1511494846047" expanded="false" signature="6:113" ph="..." />
+                <marker date="1511494846047" expanded="true" signature="155:850" ph="{...}" />
+                <marker date="1511494846047" expanded="true" signature="283:380" ph="{...}" />
+                <marker date="1511494846047" expanded="true" signature="404:502" ph="{...}" />
+                <marker date="1511494846047" expanded="true" signature="516:758" ph="{...}" />
+                <marker date="1511494846047" expanded="true" signature="772:842" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AdsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UnityPurchasing/script/IAPDemo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Android/GoogleMobileAdsPlugin/AndroidManifest.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="852" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Up Down (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <configuration default="false" name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Unity Debug.Attach to Unity Editor" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a11a719-43e9-4a19-94e1-f4c8ed8b24ce" name="Default" comment="" />
+      <created>1511492453565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511492453565</updated>
+      <workItem from="1511492459009" duration="3085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3085000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="852" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1511472456429" expanded="false" signature="6:100" ph="..." />
+            <marker date="1511472456429" expanded="true" signature="142:2324" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="379:674" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="444:616" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="706:783" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="821:904" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="926:1151" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="1169:1246" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="1270:1325" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="1354:1443" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="1480:1580" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="1612:1837" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="1659:1728" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="1741:1831" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="1863:2133" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="1918:2002" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="2015:2127" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="2165:2221" ph="{...}" />
+            <marker date="1511472456429" expanded="true" signature="2251:2322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AdsManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1511490269080" expanded="false" signature="6:139" ph="..." />
+            <marker date="1511490269080" expanded="true" signature="180:2428" ph="{...}" />
+            <marker date="1511490269080" expanded="true" signature="544:849" ph="{...}" />
+            <marker date="1511490269080" expanded="true" signature="621:820" ph="{...}" />
+            <marker date="1511490269080" expanded="true" signature="827:846" ph="{...}" />
+            <marker date="1511490269080" expanded="true" signature="866:1174" ph="{...}" />
+            <marker date="1511490269080" expanded="true" signature="916:1170" ph="{...}" />
+            <marker date="1511490269080" expanded="true" signature="1009:1066" ph="{...}" />
+            <marker date="1511490269080" expanded="true" signature="1219:1494" ph="{...}" />
+            <marker date="1511490269080" expanded="true" signature="1258:1293" ph="{...}" />
+            <marker date="1511490269080" expanded="true" signature="1331:1406" ph="{...}" />
+            <marker date="1511490269080" expanded="true" signature="1443:1491" ph="{...}" />
+            <marker date="1511490269080" expanded="true" signature="1496:1775" ph="/* void RequestBanner() ... */" />
+            <marker date="1511490269080" expanded="true" signature="1805:2425" ph="{...}" />
+            <marker date="1511490269080" expanded="true" signature="2151:2304" ph="/* For Production When Submit App ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/UnityPurchasing/script/IAPDemo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="237" column="0" lean-forward="false" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
+          <folding>
+            <marker date="1508805478000" expanded="true" signature="72:251" ph="/* You must obfuscate your secrets using Window &gt; Unity IAP &gt; Receipt Validation Obfuscator ... */" />
+            <marker date="1508805478000" expanded="true" signature="259:529" ph="/* ##define DELAY_CONFIRMATION // Returns PurchaseProcessingResult.Pending from ProcessPurchase, then calls Confir ... */" />
+            <marker date="1508805478000" expanded="false" signature="536:716" ph="..." />
+            <marker date="1508805478000" expanded="true" signature="787:928" ph="/// An example of Unity IAP functionality. ... " />
+            <marker date="1508805478000" expanded="true" signature="1018:33740" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="2220:2322" ph="/// This will be called when Unity IAP has finished initialising. ... " />
+            <marker date="1508805478000" expanded="true" signature="2412:4739" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="2906:3095" ph="/* On Apple platforms we need to handle deferred purchases caused by Apple's Ask to Buy feature. ... */" />
+            <marker date="1508805478000" expanded="true" signature="3261:3844" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="3313:3834" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="3419:3817" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="3935:3992" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="4123:4493" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="4745:4832" ph="/// This will be called when a purchase completes. ... " />
+            <marker date="1508805478000" expanded="true" signature="4905:9552" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="5314:5904" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="5512:5894" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="7786:8083" ph="/* For improved security, consider comparing the signed ... */" />
+            <marker date="1508805478000" expanded="true" signature="8779:9306" ph="/* Indicate if we have handled this purchase. ... */" />
+            <marker date="1508805478000" expanded="true" signature="10139:10231" ph="/// This will be called is an attempted purchase fails. ... " />
+            <marker date="1508805478000" expanded="true" signature="10303:12235" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="10431:12190" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="10680:11062" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="11076:11207" ph="/* Determine if the user already owns this item and that it can be added to ... */" />
+            <marker date="1508805478000" expanded="true" signature="11297:11474" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="11481:11772" ph="/* Building using Unity strictly less than 5.6; e.g 5.3-5.5. ... */" />
+            <marker date="1508805478000" expanded="true" signature="12306:13038" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="12387:13032" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="13101:13196" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="13258:13445" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="13470:22222" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="13544:13826" ph="/* The FakeStore supports: no-ui (always succeeding), basic ui (purchase pass/fail), and ... */" />
+            <marker date="1508805478000" expanded="true" signature="13964:14097" ph="/* This enables the Microsoft IAP simulator for local testing. ... */" />
+            <marker date="1508805478000" expanded="true" signature="14318:14493" ph="/* CloudMoolah Configuration setings ... */" />
+            <marker date="1508805478000" expanded="true" signature="14695:14865" ph="/* This enables the CloudMoolah test mode for local testing. ... */" />
+            <marker date="1508805478000" expanded="true" signature="14964:15180" ph="/* This records whether we are using Cloud Moolah IAP. ... */" />
+            <marker date="1508805478000" expanded="true" signature="15321:15650" ph="/* UnityChannel, provides access to Xiaomi MiPay. ... */" />
+            <marker date="1508805478000" expanded="true" signature="15982:16391" ph="/* Define our products. ... */" />
+            <marker date="1508805478000" expanded="true" signature="16505:16903" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="16554:16810" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="16654:16729" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="16907:17242" ph="/* In this case our products have the same identifier across all the App stores, ... */" />
+            <marker date="1508805478000" expanded="true" signature="17328:17485" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="17685:17842" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="18036:18139" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="18464:18526" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="18538:18693" ph="/* Write Amazon's JSON description of our products to storage when using Amazon's local sandbox. ... */" />
+            <marker date="1508805478000" expanded="true" signature="18789:18958" ph="/* This enables simulated purchase success for Samsung IAP. ... */" />
+            <marker date="1508805478000" expanded="true" signature="19062:19392" ph="/* This records whether we are using Samsung IAP. Currently ISamsungAppsExtensions.RestoreTransactions ... */" />
+            <marker date="1508805478000" expanded="true" signature="19534:19721" ph="/* This selects the GroupId that was created in the Tizen Store for this set of products ... */" />
+            <marker date="1508805478000" expanded="true" signature="20233:20364" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="20458:20512" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="20525:22216" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="20548:21270" ph="/* Call UnityChannel initialize and (later) login asynchronously ... */" />
+            <marker date="1508805478000" expanded="true" signature="21860:21982" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="22054:22120" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="22375:23043" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="22632:22693" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="22749:22814" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="22862:22926" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="22977:23037" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="23049:23165" ph="/// This will be called after a call to IAppleExtensions.RestoreTransactions(). ... " />
+            <marker date="1508805478000" expanded="true" signature="23219:23276" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="23282:23647" ph="/// iOS Specific. ... " />
+            <marker date="1508805478000" expanded="true" signature="23689:23764" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="23817:29747" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="23832:23916" ph="/* Disable the UI while IAP is initializing ... */" />
+            <marker date="1508805478000" expanded="true" signature="24108:24188" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="24512:24800" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="24970:25092" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="25192:26121" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="25240:25337" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="25351:25519" ph="/* For platforms needing Login, games utilizing a connected backend ... */" />
+            <marker date="1508805478000" expanded="true" signature="25579:25725" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="25739:25954" ph="/* Don't need to draw our UI whilst a purchase is in progress. ... */" />
+            <marker date="1508805478000" expanded="true" signature="26164:27946" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="26232:27934" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="26283:27262" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="26348:26495" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="26520:27244" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="26778:27220" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="27317:27438" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="27679:27780" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="27801:27920" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="27985:28898" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="28037:28888" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="28110:28872" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="28219:28522" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="28608:28786" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="28994:29741" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="29046:29731" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="29143:29715" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="29347:29691" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="29782:30440" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="29822:29862" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="29997:30329" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="30481:31083" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="30533:30573" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="30691:31077" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="30745:30837" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="31109:31151" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="31189:31687" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="31726:31782" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="31818:31871" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="31910:31963" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="32001:32120" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="32156:32237" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="32272:32346" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="32352:32493" ph="/// Gets the restore button when available ... " />
+            <marker date="1508805478000" expanded="true" signature="32531:32581" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="32621:32672" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="32709:32757" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="32797:32848" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="32898:33115" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="32983:33051" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="33064:33109" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="33157:33738" ph="{...}" />
+            <marker date="1508805478000" expanded="true" signature="33256:33732" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Android/GoogleMobileAdsPlugin/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="67" lean-forward="false" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
+          <folding>
+            <marker date="1511494846047" expanded="false" signature="6:113" ph="..." />
+            <marker date="1511494846047" expanded="true" signature="155:850" ph="{...}" />
+            <marker date="1511494846047" expanded="true" signature="283:380" ph="{...}" />
+            <marker date="1511494846047" expanded="true" signature="404:502" ph="{...}" />
+            <marker date="1511494846047" expanded="true" signature="516:758" ph="{...}" />
+            <marker date="1511494846047" expanded="true" signature="772:842" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
